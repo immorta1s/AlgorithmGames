@@ -1,5 +1,6 @@
 /**
  * Created by Kyrie on 2018-07-04.
+ * Cant use arraylist.
  */
 
 import java.util.*;
